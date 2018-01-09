@@ -1,0 +1,3 @@
+in a set interval of time (5 mins or 10 mins {Variable thats able to be setup}) check to see where the ISS is over on a map.
+Get the country the ISS is over, pick a random word and translate that word to the native language of the country the ISS is currently over.
+Then post that word and translation to Twitter, Slack, whatever.
